@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ViewIntentCatalog</string>
+
+    <string name="intent_detail_title">Intent Title</string>
+    <string name="intent_detail_data_description">データ</string>
+    <string name="intent_detail_data_input_hint">メインデータを入力</string>
+    <string name="intent_detail_data_sample1_description">URL1</string>
+    <string name="intent_detail_data_sample1">https://www.google.co.jp/</string>
+    <string name="intent_detail_data_sample2_description">URL2</string>
+    <string name="intent_detail_data_sample2">https://qiita.com/</string>
+    <string name="intent_detail_data_sample3_description">単語1</string>
+    <string name="intent_detail_data_sample3">test words</string>
+    <string name="intent_detail_data_sample4_description">単語2</string>
+    <string name="intent_detail_data_sample4">テスト 単語</string>
+    <string name="intent_detail_app_description">アプリ</string>
+    <string name="intent_detail_app_input_hint">オプションのアプリ名を入力</string>
+    <string name="intent_detail_app_sample1_description">アプリ1</string>
+    <string name="intent_detail_app_sample1">com.android.chrome</string>
+    <string name="intent_detail_app_sample2_description">アプリ2</string>
+    <string name="intent_detail_app_sample2">org.mozilla.focus</string>
+    <string name="intent_detail_zoom_description">拡大</string>
+    <string name="intent_detail_start_intent">Start Intent</string>
+</resources>
